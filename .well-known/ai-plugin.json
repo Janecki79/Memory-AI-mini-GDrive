@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Memory AI Mini",
+  "name_for_model": "memory_ai_mini",
+  "description_for_human": "Pamięć AI do zapisywania i odczytywania informacji oraz przesyłania plików do Google Drive.",
+  "description_for_model": "Użyj do zapamiętywania tematów i przesyłania plików do Google Drive właściciela.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://twoja-domena.onrender.com/openapi.yaml"
+  },
+  "logo_url": "https://twoja-domena.onrender.com/logo.png",
+  "contact_email": "wojciech@example.com",
+  "legal_info_url": "https://twoja-domena.onrender.com/legal"
+}
